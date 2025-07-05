@@ -17,6 +17,7 @@ void close_the_fridge() {
 
 void warning() {
     cout << "this function is not implemented yet!" << endl;
+    cout << "delete" <<endl;
 }
 
 void put_the_elephant_in_the_fridge() {
